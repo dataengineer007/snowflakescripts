@@ -1,4 +1,4 @@
-INSERT INTO employees (employee_id, first_name, last_name, department, salary) VALUES
+INSERT INTO EMP_TABLE (employee_id, first_name, last_name, department, salary) VALUES
 (1, 'John', 'Doe', 'IT', 65000.00),
 (2, 'Jane', 'Smith', 'Finance', 72000.00),
 (3, 'Robert', 'Brown', 'HR', 58000.00),
@@ -9,3 +9,4 @@ INSERT INTO employees (employee_id, first_name, last_name, department, salary) V
 (8, 'Laura', 'Anderson', 'Marketing', 62000.00),
 (9, 'Daniel', 'Thomas', 'IT', 69000.00),
 (10, 'Olivia', 'Jackson', 'Finance', 78000.00);
+
